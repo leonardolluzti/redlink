@@ -5,13 +5,11 @@ Apresenta uma listagem contendo todas as URLs geradas pelo usuário. Essa listag
 gerada, a URL original e a URL encurtada.
 
 Tecnologias Utilizadas:
-- Java JDK 11
+- Java JDK 8
 - IDE Eclipse 2021.03
 - Build Maven
-- Spring Boot 2.5.3
+- Spring Boot 2.4.9
 - Spring Web
 - Spring Data JPA
-- Spring Security
-- Vaadin
 - Lombok 1.8
 - Banco de Dados MySQL 8

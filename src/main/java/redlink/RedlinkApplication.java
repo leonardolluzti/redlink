@@ -10,4 +10,5 @@ public class RedlinkApplication {
 		SpringApplication.run(RedlinkApplication.class, args);
 	}
 
+
 }
